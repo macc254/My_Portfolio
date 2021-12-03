@@ -2,7 +2,7 @@
         background-image: url("images/6.jpg");
         background-position: center;
         background-size: cover;
-        height: 430px;
+        height: 400px;
         color: white;
     }
     
@@ -35,4 +35,18 @@
         background: linear-gradient(109.6deg, rgb(157, 75, 199) 11.2%, rgb(119, 81, 204) 83.1%);
         color: white;
         text-align: center;
+    }
+    
+    .projects {
+        color: white;
+        height: 300px;
+        text-align: center;
+        background: radial-gradient(732px at 96.2% 89.9%, rgb(70, 66, 159) 0%, rgb(187, 43, 107) 92%);
+    }
+    
+    .services {
+        color: white;
+        height: 300px;
+        text-align: center;
+        background: linear-gradient(89.7deg, rgb(0, 32, 95) 2.8%, rgb(132, 53, 142) 97.8%);
     }
