@@ -1,7 +1,35 @@
-.header {
+span {
+    color: rgb(220, 109, 235)
+}
+
+.section1 {
     background-image: url("images/6.jpg");
-    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 430px;
+    color: white;
+}
+
+img {
+    padding-left: 17px;
+    padding-top: 2px;
+}
+
+a {
+    color: rgb(229, 33, 247);
+    text-decoration: none;
+    padding: 20px 16px;
+    float: right;
+    border: solid 2px rgb(229, 33, 247);
+    border-radius: 10px 10px;
+    padding: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.content {
+    margin: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
 }
