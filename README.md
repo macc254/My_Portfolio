@@ -5,16 +5,20 @@ https://github.com/macc254/My_Portfolio.git
 Mercy Bore.
 
 ### Description
-This is a website that allows farmers to sell livestock. It has four main pages which are Home, About, Menu, Contacts. We also have additional pages which are Login, Signup and seller Pages.
+This is a landing page for my portfolio website. It has an about me section, projects section and a contact me section.
 
 #### Prerequisities
-You need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all
+You need to have git installed.
+ You can install it with the following command in your terminal
+  $ sudo apt install git-all
 
 ##### Setup
 To access this project on your local files, you can clone it using these steps:
 
 Open your terminal
-Use this command to clone `$ git clone https://github.com/macc254/My_Portfolio.git This will clone the repositoty into your local folder.
+Use this command to clone 
+`$ git clone https://github.com/macc254/My_Portfolio.git
+ This will clone the repositoty into your local folder.
 
 ###### Technologies Used
 HTML
@@ -23,8 +27,7 @@ Git
 Javascript
 
 #### Live Site
-View [Live] https://mercybore.github.io/My_Portfolio/
-
+To View the actual website click here [https://macc254.github.io/My_Portfolio/] 
 ###### Licence
 This project is under the [MIT](MIT License
 
