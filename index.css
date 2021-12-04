@@ -69,6 +69,10 @@
             padding: 50px;
         }
         
+        .contact p {
+            padding: 20px 5px;
+        }
+        
         .text {
             color: white;
             flex-basis: 100%;
