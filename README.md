@@ -1,18 +1,18 @@
 # My_portfolio
 https://github.com/macc254/My_Portfolio.git
 
-## Author
+# Author
 Mercy Bore.
 
-### Description
+# Description
 This is a landing page for my portfolio website. It has an about me section, projects section and a contact me section.
 
-#### Prerequisities
+# Prerequisities
 You need to have git installed.
  You can install it with the following command in your terminal
   $ sudo apt install git-all
 
-##### Setup
+# Setup
 To access this project on your local files, you can clone it using these steps:
 
 Open your terminal
@@ -20,15 +20,15 @@ Use this command to clone
 `$ git clone https://github.com/macc254/My_Portfolio.git
  This will clone the repositoty into your local folder.
 
-###### Technologies Used
+# Technologies Used
 HTML
 CSS
 Git
 Javascript
 
-#### Live Site
+# Live Site
 To View the actual website click here [https://macc254.github.io/My_Portfolio/] 
-###### Licence
+# Licence
 This project is under the [MIT-LICENSE]
 (MIT License
 
