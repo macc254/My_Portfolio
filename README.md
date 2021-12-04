@@ -21,10 +21,10 @@ Use this command to clone
  This will clone the repositoty into your local folder.
 
 # Technologies Used
-HTML
-CSS
-Git
-Javascript
+1. HTML
+2. CSS
+3. Git
+4. Javascript
 
 # Live Site
 To View the actual website click here [https://macc254.github.io/My_Portfolio/] 
